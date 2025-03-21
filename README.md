@@ -56,7 +56,7 @@ Sou apaixonado por segurança da informação, com foco em proteger sistemas, id
 
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: wanderson@email.com
+- Email: wandersonpaulinobatista@gmail.com
 
 ---
 
