@@ -24,5 +24,5 @@ Este GitHub serve como meu caderno de anotações público e portfólio, onde do
 * **Ferramentas:** Wireshark, PeStudio, YARA
 
 #### 📫 Como me encontrar:
-* **LinkedIn:** [Seu Perfil no LinkedIn](URL_DO_SEU_LINKEDIN)
-* **Email:** seu.email@provedor.com
+* **LinkedIn:** https://www.linkedin.com/in/wanderson-batista-a1943316b/
+* **Email:** wandersonpaulinobatista@gmail.com
