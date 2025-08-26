@@ -26,3 +26,4 @@ Este GitHub serve como meu caderno de anotações público e portfólio, onde do
 #### 📫 Como me encontrar:
 * **LinkedIn:** https://www.linkedin.com/in/wanderson-batista-a1943316b/
 * **Email:** wandersonpaulinobatista@gmail.com
+* **Perfil no Crackmes:** https://crackmes.one/user/falatu0800
