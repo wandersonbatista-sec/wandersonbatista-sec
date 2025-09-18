@@ -12,8 +12,8 @@ Este GitHub serve como meu portfólio e caderno de anotações, onde documentei 
 
 #### 🔭 Meus Projetos Principais:
 
-* 📖 **[Write-ups de Pentesting](https://github.com/wandersonbatista-sec/malware-analysis-basics):** Minha coleção de soluções de máquinas do **Hack The Box** e **TryHackMe**, detalhando as vulnerabilidades que explorei e o caminho que segui.
-* 🤖 **[Ferramentas de Pentesting](https://github.com/wandersonbatista-sec/automacao-engenharia-reversa):** Scripts e ferramentas que desenvolvo para automatizar a descoberta de vulnerabilidades e outras tarefas repetitivas em testes de intrusão.
+* 📖 **[Write-ups de Pentesting](https://github.com/wandersonbatista-sec/writeups):** Minha coleção de soluções de máquinas do **Hack The Box** e **TryHackMe**, detalhando as vulnerabilidades que explorei e o caminho que segui.
+* 🤖 **[Ferramentas de Pentesting](https://github.com/wandersonbatista-sec/pentesting-scripts):** Scripts e ferramentas que desenvolvo para automatizar a descoberta de vulnerabilidades e outras tarefas repetitivas em testes de intrusão.
 * 💻 **[Aplicações de Estudo](https://github.com/wandersonbatista-sec/re-analysis-lab):** Projetos que crio para entender e praticar técnicas de segurança ofensiva em diferentes contextos, incluindo engenharia reversa para encontrar falhas.
 
 #### 💡 Habilidades e Ferramentas:
